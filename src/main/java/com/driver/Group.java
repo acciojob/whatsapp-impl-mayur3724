@@ -25,4 +25,4 @@ public class Group {
         this.numberOfParticipants = numberOfParticipants;
     }
 }
-}
+
